@@ -1,0 +1,118 @@
+body,html{
+  	overflow-x:hidden;
+}
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	overflow-x: hidden !important;
+	color: #838282;
+}
+header{
+	background-image: url(../img/header.jpg);
+	height:768px ;
+
+}
+.nav-item{
+	margin-right: 20px;
+margin-left: 20px;
+
+}
+.nav-link {
+    color: rgba(132, 128, 128, 0.52) !important;
+    font-family: Raleway Thin;
+	font-size: 24px;
+}
+.nav-link a:hover{
+	background-color: white !important;
+	}
+.navbar-nav {
+
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: auto;
+    text-align: center;
+}
+/*http://prntscr.com/i57nwp*/
+
+/*.about-content .col-md-8
+{
+padding-right: 77px;
+}*/
+.about-area{
+font-family: Raleway light;
+font-size: 24px;
+margin-bottom: 17px;
+}
+.section-title span{
+	font-family: Raleway Light;
+font-size: 25px;
+}
+.title{
+font-family: Raleway ExtraBold;
+font-size: 27px;
+}
+.about-text{
+font-family: Raleway Light;
+font-size: 14px;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+
+.container-fluid {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.about img{
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+.about-2{
+	margin-left: -22px;
+}
+.about-img1{
+	padding-left: 36px;
+}
+.do-it{
+	    margin-right: 21px;
+    margin-left: 21px;
+    margin-bottom: 50px;
+}
+.do-it img{
+	display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+.do-it span{
+text-align: center;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+font-family: Raleway SemiBold;
+font-size: 14px;
+}
+.testimoni-title{
+	text-align: center;
+}
+.do-title{
+	text-align: center;
+	margin-top: 50px;
+margin-bottom: 10px;
+}
+.do-title h3{
+	font-size: 20px;
+font-family: Raleway;
+}
+.testimoni-title{
+	margin-top: 20px;
+margin-bottom: 40px;
+}
+.testimoni-title span{
+	font-size: 72px;
+}
